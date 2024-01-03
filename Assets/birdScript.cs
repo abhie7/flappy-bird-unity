@@ -6,6 +6,7 @@ public class birdScript : MonoBehaviour
 {
     public Rigidbody2D myRigidbody;
     public float flapStrength;
+
     public logicScript logic;
     public bool birdIsAlive = true;
 
