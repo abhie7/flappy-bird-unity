@@ -22,8 +22,14 @@ The game is available on GitHub Pages using WebGL technology, allowing players t
 
 ## Gameplay Screenshots
 
-![Gameplay Screenshot 1](https://imgur.com/NXnMLox.png)
+![Landing Page Screenshot](https://imgur.com/NXnMLox.png)
 *Landing Page*
+
+![Gamplay Screenshot](https://imgur.com/y9F0DAt.png)
+*Gameplay*
+
+![Game Over Screenshot](https://imgur.com/OcAgOj9.png)
+*Game Over*
 
 ## Accessing the Game
 
