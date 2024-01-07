@@ -2,6 +2,17 @@
 
 This Flappy Bird game is a recreation of the classic arcade game developed using **Unity** and **C#**. It offers a fun and engaging gameplay experience where players control a bird through obstacles by by tapping the spacebar/ up-arrow key to flap its wings and avoid collisions.
 
+## Gameplay Screenshots
+
+![Landing Page Screenshot](https://imgur.com/NXnMLox.png)
+*Landing Page*
+
+![Gamplay Screenshot](https://imgur.com/y9F0DAt.png)
+*Gameplay*
+
+![Game Over Screenshot](https://imgur.com/OcAgOj9.png)
+*Game Over*
+
 ## Features
 
 #### Gameplay Mechanics
@@ -20,16 +31,6 @@ If the bird collides with any obstacles or falls to the ground, it's game over. 
 
 The game is available on GitHub Pages using WebGL technology, allowing players to access and play it directly in a web browser.
 
-## Gameplay Screenshots
-
-![Landing Page Screenshot](https://imgur.com/NXnMLox.png)
-*Landing Page*
-
-![Gamplay Screenshot](https://imgur.com/y9F0DAt.png)
-*Gameplay*
-
-![Game Over Screenshot](https://imgur.com/OcAgOj9.png)
-*Game Over*
 
 ## Accessing the Game
 
