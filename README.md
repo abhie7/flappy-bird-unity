@@ -4,7 +4,7 @@ This Flappy Bird game is a recreation of the classic arcade game developed using
 
 ## Gameplay Screenshots
 
-![Landing Page Screenshot](https://imgur.com/NXnMLox.png)
+![Landing Page Screenshot](https://imgur.com/sbNBkD0.png)
 *Landing Page*
 
 ![Gamplay Screenshot](https://imgur.com/y9F0DAt.png)
