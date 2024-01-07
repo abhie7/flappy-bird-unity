@@ -2,3 +2,4 @@
 *.cs linguist-detectable=true
 *.html linguist-vendored
 *.css linguist-vendored
+*.shader linguist-vendored
